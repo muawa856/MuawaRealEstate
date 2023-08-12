@@ -1,9 +1,11 @@
 # MuawaRealEstate Machine Learning Prediction Model
 
- Blogs:   https://usmanmuawa.blogspot.com/
-
 
  DataSet Link: https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data
+
+
+  Blogs:   https://usmanmuawa.blogspot.com/
+
 
  
  Youtube: https://youtu.be/arLQwYuVk2A
